@@ -1,0 +1,1 @@
+External battery, SBUS, power switch connection board for xiaomi CyberDog.

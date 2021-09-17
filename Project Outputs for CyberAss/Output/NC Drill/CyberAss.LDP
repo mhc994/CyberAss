@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\81440\workspaces\CyberAss\CyberAss.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=cyberass-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=cyberass-nonplated.txt|DrillLayers=gtl,gbl
